@@ -6,7 +6,7 @@
 /*   By: alaamimi <alaamimi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/12 19:09:47 by alaamimi          #+#    #+#             */
-/*   Updated: 2021/02/12 20:11:12 by alaamimi         ###   ########.fr       */
+/*   Updated: 2021/02/12 20:28:29 by alaamimi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,10 +17,10 @@ int	power(int x, int y)
 	
 	if (y == 0)
 		return (1);
-	else if (y < 0)
-		return (0);
+	else if (y > 0)
+		return (x * power(x, y-1));
 	else
-		return (x*power(x, y-1));
+		return (1);
 }
 
 int	main(void)
@@ -30,6 +30,6 @@ int	main(void)
 
 	printf("Please enter the values of x and y : \n");
 	scanf("%d %d", &x, &y);
-	printf("%d", power(x, y));
+	printf("%d\n", power(x, y));
 	return (0);
 }
