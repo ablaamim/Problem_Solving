@@ -6,7 +6,7 @@
 /*   By: alaamimi <alaamimi@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/09 17:41:52 by alaamimi          #+#    #+#             */
-/*   Updated: 2021/09/11 18:32:58 by alaamimi         ###   ########.fr       */
+/*   Updated: 2021/09/11 18:35:28 by alaamimi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -183,7 +183,7 @@ int	intarray_index_of_min(intarray tab)
 
 int	intarray_index_of_min_from(intarray tab, int n)
 {
-	int	min = tab.data[i];
+	int	min = tab.data[n];
 	int	index_min = n;
 	int i;
 
@@ -197,7 +197,7 @@ int	intarray_index_of_min_from(intarray tab, int n)
 		}
 		i++;
 	}
-	return (index_min)
+	return (index_min);
 }
 
 int	main(void)
@@ -219,6 +219,7 @@ int	main(void)
 	printf("\n");
 	printf("%d\n", intarray_get_min(toto));
 	printf("%d\n", intarray_index_of_min(toto));
+	printf("%d\n", intarray_index_of_min_from(toto, 2));
 	intarray_destroy(toto);
 	intarray_destroy(titi);
 	intarray_destroy(tutu);
