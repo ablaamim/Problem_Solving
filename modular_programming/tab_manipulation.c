@@ -6,20 +6,13 @@
 /*   By: alaamimi <alaamimi@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/09 17:41:52 by alaamimi          #+#    #+#             */
-/*   Updated: 2021/09/11 18:35:28 by alaamimi         ###   ########.fr       */
+/*   Updated: 2021/09/13 15:29:50 by alaamimi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <stdio.h>
 #include <stdlib.h>
-
-typedef struct intarray intarray;
-
-struct intarray 
-{
-	int *data;
-	int len;
-};
+#include "intarray.h"
 
 intarray intarray_create(int len)
 {
