@@ -1,19 +1,24 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   hello_c.c                                          :+:      :+:    :+:   */
+/*   Playing_With_Characters.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ablaamim <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2022/01/14 20:50:42 by ablaamim          #+#    #+#             */
-/*   Updated: 2022/01/14 21:16:10 by ablaamim         ###   ########.fr       */
+/*   Created: 2022/01/14 21:17:42 by ablaamim          #+#    #+#             */
+/*   Updated: 2022/01/14 21:48:41 by ablaamim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdlib.h>
 #include <unistd.h>
+#include <stdlib.h>
+#include <stdio.h>
 #define MAX 100
+
+void	ft_putchar(char c)
+{
+	write(1, &c, 1);
+}
 
 void	ft_putstr(char *str)
 {
@@ -25,10 +30,18 @@ int	main(int argc, char **argv)
 {
 	(void)	argc;
 	(void)	argv;
-	char	str[MAX];
+	char	ch;
+	char	str[100];
+	char	sen[100];
 
-	fgets(str, MAX, stdin);
-	ft_putstr("Hello, World!\n");
+	scanf("%c", &ch);
+	ft_putchar(ch);
+	ft_putchar('\n');
+	scanf("%s", str);
 	ft_putstr(str);
+	ft_putchar('\n');
+	scanf("\n");
+	fgets(sen, MAX, stdin);
+	ft_putstr(sen);
 	return (EXIT_SUCCESS);
 }
