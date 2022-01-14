@@ -13,7 +13,7 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c/problem)|[hello-world-c.c](C_LANGUAGE_SECTION_HACKERRANK/hello-world-c/hello-world-c.c) |
 | Introduction | Easy | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)|[playing-with-characters.c](C_LANGUAGE_SECTION_HACKERRANK/playing-with-characters/playing-with-characters.c)|
 | Introduction | Easy | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)|[sum-numbers-c.c](C_LANGUAGE_SECTION_HACKERRANK/sum-numbers-c/sum-numbers-c.c)|
-| Introduction | Easy | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)|[functions-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/functions-in-c.c)|
+| Introduction | Easy | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)|[functions-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/functions-in-c/functions-in-c.c)|
 | Introduction | Easy | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)|[pointer-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/pointer-in-c.c)|
 | Conditionals and Loops | Easy | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)|[conditional-statements-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/conditional-statements-in-c.c)|
 | Conditionals and Loops | Easy | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)|[for-loop-in-c.c](c/for-loop-in-c.c)|
