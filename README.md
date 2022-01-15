@@ -6,11 +6,11 @@ Solutions to some problems on Hackerrank.
     * [C](#c)
     * [Mathematics](#Mathematics)
 
-# Maehtmatics
+# Mathematics
 
 | Subdomain | Difficulty | Challenge | Solution |
 |--- |--- |--- |--- |
-| Fundamentals | Easy | [find the point](https://www.hackerrank.com/challenges/find-point/problem?isFullScreen=true)|[find-the-point.c](Mathematics/find-the-point/find-the-point`.c) |
+| Fundamentals | Easy | [find the point](https://www.hackerrank.com/challenges/find-point/problem?isFullScreen=true)|[find-the-point.c](Mathematics/find-the-point/find-the-point.c) |
 
 
 # c
