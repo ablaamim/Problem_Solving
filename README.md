@@ -1,5 +1,5 @@
 # HackerRank
-[![My hackerrank profile](images/HackerRankLogo.svg)](https://www.hackerrank.com/alaamimi)
+[![My hackerrank profile](images/HackerRankLogo.svg)](https://www.hackerrank.com/ablaamim)
 Solutions to some problems on Hackerrank.
 
 * [LANGUAGE PROFICIENCY](#language-proficiency)
