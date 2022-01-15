@@ -11,7 +11,7 @@ Solutions to some problems on Hackerrank.
 | Subdomain | Difficulty | Challenge | Solution |
 |--- |--- |--- |--- |
 | Fundamentals | Easy | [find the point](https://www.hackerrank.com/challenges/find-point/problem?isFullScreen=true)|[find-the-point.c](Mathematics/find-the-point/find-the-point.c) |
-
+| Fundamentals | Easy | [maximum draws](https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=true)|[maximum-draws.c](Mathematics/maximum-draws/maximum-draws.c) |
 
 # c
 
