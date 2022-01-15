@@ -14,9 +14,9 @@ Solutions to some problems on Hackerrank.
 | Introduction | Easy | [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)|[playing-with-characters.c](C_LANGUAGE_SECTION_HACKERRANK/playing-with-characters/playing-with-characters.c)|
 | Introduction | Easy | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)|[sum-numbers-c.c](C_LANGUAGE_SECTION_HACKERRANK/sum-numbers-c/sum-numbers-c.c)|
 | Introduction | Easy | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)|[functions-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/functions-in-c/functions-in-c.c)|
-| Introduction | Easy | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)|[pointer-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/pointer-in-c.c)|
-| Conditionals and Loops | Easy | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)|[conditional-statements-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/conditional-statements-in-c.c)|
-| Conditionals and Loops | Easy | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)|[for-loop-in-c.c](c/for-loop-in-c.c)|
+| Introduction | Easy | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)|[pointer-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/pointer-in-c/pointer-in-c.c)|
+| Conditionals and Loops | Easy | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c/problem)|[conditional-statements-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/conditional-statements-in-c/conditional-statements-in-c.c)|
+| Conditionals and Loops | Easy | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c/problem)|[for-loop-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/for-loop-in-c/for-loop-in-c.c)|
 | Conditionals and Loops | Easy | [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem)|[sum-of-digits-of-a-five-digit-number.c](C_LANGUAGE_SECTION_HACKERRANK/sum-of-digits-of-a-five-digit-number.c)|
 | Conditionals and Loops | Easy | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem)|[bitwise-operators-in-c.c](C_LANGUAGE_SECTION_HACKERRANK/bitwise-operators-in-c.c)|
 | Conditionals and Loops | Medium | [Printing Pattern using Loops](https://www.hackerrank.com/challenges/printing-pattern-2/problem)|[printing-pattern-2.c](C_LANGUAGE_SECTION_HACKERRANK/printing-pattern-2.c)|
