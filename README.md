@@ -4,7 +4,7 @@ Solutions to some problems on Hackerrank.
 
 * [LANGUAGE PROFICIENCY](#language-proficiency)
     * [C](#c)
-    * [Mathematics] (#Mathematics)
+    * [Mathematics](#Mathematics)
 
 # Maehtmatics
 
