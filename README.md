@@ -10,10 +10,11 @@ Solutions to some problems on Hackerrank.
 
 | Subdomain | Difficulty | Challenge | Solution |
 |--- |--- |--- |--- |
-| Fundamentals | Easy | [find the point](https://www.hackerrank.com/challenges/find-point/problem?isFullScreen=true)|[find-the-point.c](Mathematics/find-the-point/find-the-point.c) |
-| Fundamentals | Easy | [maximum draws](https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=true)|[maximum-draws.c](Mathematics/maximum-draws/maximum-draws.c) |
-| Fundamentals | Easy | [handshake](https://www.hackerrank.com/challenges/handshake/problem?isFullScreen=true)|[handshake.c](Mathematics/handshake/handshake.c) |
-| Fundamentals | Easy | [army-game](https://www.hackerrank.com/challenges/game-with-cells/problem?isFullScreen=true)|[army-game.c](Mathematics/army-game/army-game.c) |
+| Fundamentals | Easy | [find the point](https://www.hackerrank.com/challenges/find-point/problem?isFullScreen=true) | [find-the-point.c](Mathematics/find-the-point/find-the-point.c) |
+| Fundamentals | Easy | [maximum draws](https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=true) | [maximum-draws.c](Mathematics/maximum-draws/maximum-draws.c) |
+| Fundamentals | Easy | [handshake](https://www.hackerrank.com/challenges/handshake/problem?isFullScreen=true) | [handshake.c](Mathematics/handshake/handshake.c) |
+| Fundamentals | Easy | [army-game](https://www.hackerrank.com/challenges/game-with-cells/problem?isFullScreen=true) | [army-game.c](Mathematics/army-game/army-game.c) |
+| Fundamentals | Easy | [minimum-height-triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem?isFullScreen=true) | [minimum-height-triangle.c](minimum-height-triangle/minimum-height-triangle.c)  |
 
 # c
 
