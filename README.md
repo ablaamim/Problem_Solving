@@ -16,8 +16,8 @@ Solutions to some problems on Hackerrank.
 | Fundamentals | Easy | [maximum draws](https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=true) | [maximum-draws.c](Mathematics/maximum-draws/maximum-draws.c) |
 | Fundamentals | Easy | [handshake](https://www.hackerrank.com/challenges/handshake/problem?isFullScreen=true) | [handshake.c](Mathematics/handshake/handshake.c) |
 | Fundamentals | Easy | [army-game](https://www.hackerrank.com/challenges/game-with-cells/problem?isFullScreen=true) | [army-game.c](Mathematics/army-game/army-game.c) |
-| Fundamentals | Easy | [minimum-height-triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem?isFullScreen=true) | [minimum-height-triangle.c](minimum-height-triangle/minimum-height-triangle.c)  |
-| Fundamentals | Easy | [halloween-party](https://www.hackerrank.com/challenges/halloween-party/problem?isFullScreen=true) | [halloween-party.c](halloween-party/halloween-party.c) |
+| Fundamentals | Easy | [minimum-height-triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem?isFullScreen=true) | [minimum-height-triangle.c](Mathematics/minimum-height-triangle/minimum-height-triangle.c)  |
+| Fundamentals | Easy | [halloween-party](https://www.hackerrank.com/challenges/halloween-party/problem?isFullScreen=true) | [halloween-party.c](Mathematics/halloween-party/halloween-party.c) |
 
 ---
 
