@@ -6,6 +6,8 @@ Solutions to some problems on Hackerrank.
     * [C](#c)
     * [Mathematics](#Mathematics)
 
+---
+
 # Mathematics
 
 | Subdomain | Difficulty | Challenge | Solution |
@@ -15,6 +17,9 @@ Solutions to some problems on Hackerrank.
 | Fundamentals | Easy | [handshake](https://www.hackerrank.com/challenges/handshake/problem?isFullScreen=true) | [handshake.c](Mathematics/handshake/handshake.c) |
 | Fundamentals | Easy | [army-game](https://www.hackerrank.com/challenges/game-with-cells/problem?isFullScreen=true) | [army-game.c](Mathematics/army-game/army-game.c) |
 | Fundamentals | Easy | [minimum-height-triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem?isFullScreen=true) | [minimum-height-triangle.c](minimum-height-triangle/minimum-height-triangle.c)  |
+| Fundamentals | Easy | [halloween-party](https://www.hackerrank.com/challenges/halloween-party/problem?isFullScreen=true) | [halloween-party.c](halloween-party/halloween-party.c) |
+
+---
 
 # c
 
@@ -43,3 +48,5 @@ Solutions to some problems on Hackerrank.
 | Structs and Enums | Easy| [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes/problem)|[too-high-boxes.c](C_LANGUAGE_SECTION_HACKERRANK/too-high-boxes/too-high-boxes.c)|
 | Structs and Enums | Medium |[Small Triangles, Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem)|[small-triangles-large-triangles.c](C_LANGUAGE_SECTION_HACKERRANK/small-triangles-large-triangles/small-triangles-large-triangles.c)|
 | Structs and Enums | Hard |[Post Transition](https://www.hackerrank.com/challenges/post-transition/problem)|[post-transition.c](C_LANGUAGE_SECTION_HACKERRANK/post-transition/post-transition.c) |
+
+---
