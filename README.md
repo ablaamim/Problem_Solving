@@ -60,6 +60,6 @@ Solutions to some problems on Hackerrank.
 |  Introduction | Easy | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?isFullScreen=true) | [Java Stding and Stdout I](https://github.com/ablaamim/Problem_Solving/blob/master/JAVA_LANGUAGE_SECTION_HACKERRANK/Java_stdin_and_stdout_1/Java_stdin_and_stdout_1.java) |
 | Introduction | Easy | [Java if-Else](https://www.hackerrank.com/challenges/java-if-else/problem?isFullScreen=true) | [Java if-Else](https://github.com/ablaamim/Problem_Solving/blob/master/JAVA_LANGUAGE_SECTION_HACKERRANK/java_if_else/java_if_else.java) |
 | Introduction | Easy | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem?isFullScreen=true) | [Java Stdin and Stdout II](https://github.com/ablaamim/Problem_Solving/blob/master/JAVA_LANGUAGE_SECTION_HACKERRANK/java_stdin_and_stdout_2/java_stdin_and_stdout_2.java) |
-| Introduction | Easy | [Java output formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | [Java output formatting](https://github.com/ablaamim/Problem_Solving/tree/master/JAVA_LANGUAGE_SECTION_HACKERRANK/java_output_formatting) |
+| Introduction | Easy | [Java output formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem?isFullScreen=true) | [Java output formatting](https://github.com/ablaamim/Problem_Solving/tree/master/JAVA_LANGUAGE_SECTION_HACKERRANK/java_output_formatting/java_output_formatting.java) |
 
 ---
