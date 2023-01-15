@@ -1,44 +1,53 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   InheritanceIntroduction.cpp                        :+:      :+:    :+:   */
+/*   MultilevelInheritance.cpp                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ablaamim <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/01/13 19:20:08 by ablaamim          #+#    #+#             */
-/*   Updated: 2023/01/13 19:20:40 by ablaamim         ###   ########.fr       */
+/*   Created: 2023/01/15 15:51:06 by ablaamim          #+#    #+#             */
+/*   Updated: 2023/01/15 15:53:55 by ablaamim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <iostream>
 
-
 using namespace std;
 
-
-class Triangle{
-    public:
-    	void triangle(){
-     		cout<<"I am a triangle\n";
-    	}
+class Triangle
+{
+	public:
+		void triangle()
+        {
+			cout<<"I am a triangle\n";
+		}
 };
 
-class Isosceles : public Triangle{
-    public:
-    	void isosceles()
-        {
+class Isosceles : public Triangle
+{
+  	public:
+  		void isosceles()
+          {
     		cout<<"I am an isosceles triangle\n";
-    	}
-  		void description()
+  		}
+};
+
+class Equilateral : public Isosceles
+{
+      public :
+        void equilateral()
         {
-            cout <<  "In an isosceles triangle two sides are equal" << endl;
+            cout << "I am an equilateral triangle" << endl;
         }
 };
 
-int main(){
-    Isosceles isc;
-    isc.isosceles();
-  	isc.description();
-    isc.triangle();
-    return 0;
+int main()
+{
+  
+    Equilateral eqr;
+    
+    eqr.equilateral();
+    eqr.isosceles();
+    eqr.triangle();
+    return (0);
 }
