@@ -3,9 +3,14 @@
 Solutions to some problems on Hackerrank.
 
 * [LANGUAGE PROFICIENCY](#language-proficiency)
+    * Python
     * [C](#c)
 	* [JAVA](#java)
     * [Mathematics](#Mathematics)
+
+---
+
+# Python
 
 ---
 
